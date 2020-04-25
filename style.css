@@ -1,0 +1,20 @@
+@charset "utf-8"
+body {
+    background-color: rgb(224, 194, 255);
+}
+h1 {
+    color:red;
+}
+nav {
+    font-size: 20px;
+    border-style: solid;
+    border-width: thick;
+}
+div p {
+    background-color: salmon;
+    padding: 40px;
+}
+footer {
+    border-style: solid;
+    border-width: thick;
+}
